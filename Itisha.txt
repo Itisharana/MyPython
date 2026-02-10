@@ -1,0 +1,8 @@
+Itisha
+1500
+Itisha
+Itisha@123
+Name:- Itisha
+opening balance= 1000
+withdraw amount:- 500 balance= 500
+deposit amount is 1000 and balance is 1500
